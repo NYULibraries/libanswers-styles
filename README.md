@@ -38,7 +38,7 @@ Look for the Customization Options: Find the “Look & Feel” panel.
 
 Open the CSS Editor: This should allow you to insert custom styles that will override the default styling.
 
-Step 3: Add the Custom CSS
+- Step 3: Add the Custom CSS
 Insert the Rule: Copy and paste the following CSS code into the editor:
 
 ```
