@@ -1,3 +1,15 @@
+# ⚠️ Repository Archived
+
+This repository is deprecated and has been archived to avoid duplication.
+
+All LibAnswers styling assets are now maintained in:
+
+https://github.com/NYULibraries/libanswers-assets
+
+Please use that repository for any updates or future development.
+
+This repository remains available for historical reference only.
+
 # Libanswers-styles
 
 Back up the CSS for NYU Libraries' instance of SpringShare's LibAnswers (LA) product:
